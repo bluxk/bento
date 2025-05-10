@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Compass',
+					link: 'https://kambryacollege-vic.compass.education/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Stile',
+					link: 'https://stileapp.com/au/VIC-8258',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Maths',
+					link: 'https://classroom.google.com/u/1/c/NjkwMDYxMjIyMzM3',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'English',
+					link: 'https://classroom.google.com/u/1/c/NzM2ODcyNjEyMTE3',
 				},
 			],
 		},
